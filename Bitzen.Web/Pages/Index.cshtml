@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "";
+}
+<div class="flex flex-col justify-center items-center w-full">
+    <h1>Olá, <strong id="nome"> </strong></h1>
+    <p>Utilize o meu ao lado para gerenciar os cadastros.</p>
+</div>
+
+<script src="~/js/services/usuario.js"></script>
+<script>
+    const carregaLogado = async () => {
+        const usuario = await Usuario.getLogadoAxios();
+        if (usuario.data.success) {
+            $('#nome').html(usuario.data.data.nome);
+        }
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+        carregaLogado();
+    });
+</script>

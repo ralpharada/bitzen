@@ -1,0 +1,14 @@
+C:\Projeto\Bitzen\Bitzen.Domain\bin\Debug\net6.0\Bitzen.Domain.deps.json
+C:\Projeto\Bitzen\Bitzen.Domain\bin\Debug\net6.0\Bitzen.Domain.runtimeconfig.json
+C:\Projeto\Bitzen\Bitzen.Domain\bin\Debug\net6.0\Bitzen.Domain.dll
+C:\Projeto\Bitzen\Bitzen.Domain\bin\Debug\net6.0\Bitzen.Domain.pdb
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\Bitzen.Domain.csproj.AssemblyReference.cache
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\Bitzen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\Bitzen.Domain.AssemblyInfoInputs.cache
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\Bitzen.Domain.AssemblyInfo.cs
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\Bitzen.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\Bitzen.Domain.dll
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\refint\Bitzen.Domain.dll
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\Bitzen.Domain.pdb
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\Bitzen.Domain.genruntimeconfig.cache
+C:\Projeto\Bitzen\Bitzen.Domain\obj\Debug\net6.0\ref\Bitzen.Domain.dll

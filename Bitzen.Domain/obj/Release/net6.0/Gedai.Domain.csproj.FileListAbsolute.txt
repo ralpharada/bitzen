@@ -1,0 +1,14 @@
+C:\Projeto\Gedai\Gedai\Gedai.Domain\bin\Release\net6.0\Gedai.Domain.deps.json
+C:\Projeto\Gedai\Gedai\Gedai.Domain\bin\Release\net6.0\Gedai.Domain.runtimeconfig.json
+C:\Projeto\Gedai\Gedai\Gedai.Domain\bin\Release\net6.0\Gedai.Domain.dll
+C:\Projeto\Gedai\Gedai\Gedai.Domain\bin\Release\net6.0\Gedai.Domain.pdb
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\Gedai.Domain.csproj.AssemblyReference.cache
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\Gedai.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\Gedai.Domain.AssemblyInfoInputs.cache
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\Gedai.Domain.AssemblyInfo.cs
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\Gedai.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\Gedai.Domain.dll
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\refint\Gedai.Domain.dll
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\Gedai.Domain.pdb
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\Gedai.Domain.genruntimeconfig.cache
+C:\Projeto\Gedai\Gedai\Gedai.Domain\obj\Release\net6.0\ref\Gedai.Domain.dll

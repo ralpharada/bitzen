@@ -1,0 +1,12 @@
+C:\Projeto\Bitzen\Bitzen.Core\bin\Debug\net7.0\Bitzen.Core.deps.json
+C:\Projeto\Bitzen\Bitzen.Core\bin\Debug\net7.0\Bitzen.Core.dll
+C:\Projeto\Bitzen\Bitzen.Core\bin\Debug\net7.0\Bitzen.Core.pdb
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\Bitzen.Core.csproj.AssemblyReference.cache
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\Bitzen.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\Bitzen.Core.AssemblyInfoInputs.cache
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\Bitzen.Core.AssemblyInfo.cs
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\Bitzen.Core.csproj.CoreCompileInputs.cache
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\Bitzen.Core.dll
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\refint\Bitzen.Core.dll
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\Bitzen.Core.pdb
+C:\Projeto\Bitzen\Bitzen.Core\obj\Debug\net7.0\ref\Bitzen.Core.dll

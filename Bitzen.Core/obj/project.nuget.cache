@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVQ6doBU+6Ay0RvzpS+XeJf+lJ61io8NA+zaZcvmC5a/VEmEyUsHgDR/uQYuElpONVj0XBzY/MNlXlI0x9Brzg==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto\\Bitzen\\Bitzen.Core\\Bitzen.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tellus\\.nuget\\packages\\flunt\\2.0.3\\flunt.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tellus\\.nuget\\packages\\flunt.br\\2.0.0\\flunt.br.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tellus\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Tellus\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

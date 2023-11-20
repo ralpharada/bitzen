@@ -1,0 +1,17 @@
+﻿@page
+@model Bitzen.Web.Pages.Shared.Components.ModalModel
+@{
+}
+<div id="myModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="fecharModal()">&times;</span>
+        <p>Conteúdo do Modal aqui...</p>
+    </div>
+</div>
+
+<script>
+    function fecharModal() {
+        var modal = document.getElementById('myModal');
+        modal.style.display = 'none';
+    }
+</script>
